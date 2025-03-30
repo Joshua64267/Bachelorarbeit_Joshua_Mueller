@@ -11,8 +11,6 @@ Stelle sicher, dass die folgenden Python-Bibliotheken installiert sind:
 pip install -r requirements.txt
 ```
 
-Falls zusätzliche Module benötigt werden, installiere sie mit `pip`.
-
 ## Nutzung
 Das Hauptskript `main.py` kann mit verschiedenen Argumenten ausgeführt werden:
 
