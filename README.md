@@ -8,7 +8,7 @@ Dieses Projekt befasst sich mit der Vorhersage und Evaluierung von Laufzeiten be
 Stelle sicher, dass die folgenden Python-Bibliotheken installiert sind:
 
 ```bash
-pip install numpy pandas lightgbm scipy shap matplotlib scikit-learn mlxtend fonttools pmdarima statsmodels seaborn
+pip install -r requirements.txt
 ```
 
 Falls zusätzliche Module benötigt werden, installiere sie mit `pip`.
