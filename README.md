@@ -1,7 +1,7 @@
 # README
 
 ## Projektbeschreibung
-Dieses Projekt befasst sich mit der Vorhersage von Laufzeiten bei Halbmarathons und Marathons anhand verschiedener Machine-Learning-Modelle. Es verwendet Daten aus einer Kaggle-Datenbank und bietet verschiedene Methoden zur Datenanalyse, Modellierung und Evaluierung.
+Dieses Projekt befasst sich mit der Vorhersage und Evaluierung von Laufzeiten bei Halbmarathons und Marathons anhand verschiedener Machine-Learning-Modelle. Es verwendet Daten aus einer Kaggle-Datenbank und bietet verschiedene Methoden zur Datenanalyse, Modellierung und Evaluierung.
 
 ## Voraussetzungen
 ### Installierte Bibliotheken
